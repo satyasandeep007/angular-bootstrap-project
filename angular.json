@@ -29,7 +29,6 @@
               "src/img"
             ],
             "styles": [
-              "src/css/sb-admin-2.css",
               "src/css/sb-admin-2.min.css",
               "src/vendor/fontawesome-free/css/all.min.css"
             ],
